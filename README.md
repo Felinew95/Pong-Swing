@@ -10,6 +10,7 @@ Le projet sert d’entraînement à la programmation orientée objet, à la gest
 - Balle avec rebonds
 - Gestion du score et condition de victoire
 - Interface graphique avec Swing
+- 11 points pour gagner 
 
 ## Commandes
 | Joueur | Gauche | Droite |
